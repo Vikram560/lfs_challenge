@@ -1,0 +1,4 @@
+.pytest_cache
+src/__pycache__
+fixed_width.txt
+delimited.csv
